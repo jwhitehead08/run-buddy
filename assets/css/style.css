@@ -72,7 +72,7 @@ section {
 
 /* Hero Style Start */
 .hero {
-  background-image: url('../images/hero-bg.jpg');
+  background-image: url('../images/hero-bg.jpeg');
   height: 600px;
   background-size: cover;
   background-position: center;
@@ -255,7 +255,8 @@ section {
   font-size: 32px;
 }
 
-.contact-info p, .contact-info address {
+.contact-info p,
+.contact-info address {
   margin: 20px 0;
   line-height: 1.5;
   font-size: 20px;
@@ -267,6 +268,4 @@ section {
 }
 
 /* REACH OUT STYLES END */
-
-
 
